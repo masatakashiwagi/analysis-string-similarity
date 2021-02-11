@@ -5,6 +5,7 @@
   - レーベンシュタイン距離による類似度評価
   
 ```python
+# サンプル文字列
 str1 = 'How to train a deep neural network (DNN) using PyTorch or Tensorflow.'
 str2 = 'How to train a convolutional neural network (CNN) using PyTorch or Tensorflow.'
 
